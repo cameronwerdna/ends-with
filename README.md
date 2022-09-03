@@ -1,0 +1,1 @@
+solution for codewars problem "String Ends With?". compares two arguments and determines if arg str ends with arg ending. returns a boolean.
